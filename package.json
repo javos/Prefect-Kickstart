@@ -26,6 +26,6 @@
   "dependencies": {
     "normalize-css": "^2.3.1",
     "uikit": "^3.2.1",
-    "prefect-lib": "git+ssh://git@bitbucket.org:janisprefect/prefect-lib.git#v0.2.2"
+    "prefect-lib": "git+ssh://git@github.com:javos/Prefect-Kickstart.git"
   }
 }
